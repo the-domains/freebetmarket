@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[FreeBetMarket]]></title>
         <description><![CDATA[FreeBetMarket]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freebetmarket/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 11:50:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 11:17:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freebetmarket/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/freebetmarket/657f9677-7236-49b2-9a6b-b76098de4e59/index.html</link>
+            <guid isPermaLink="false">657f9677-7236-49b2-9a6b-b76098de4e59</guid>
+            <pubDate>Wed, 02 Mar 2016 11:17:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f298f3-cce5-48c4-8bf2-0915e9ae32e8.png">]]></description>
-            <link>undefinedfcf915b4-299d-4229-b525-0c3e793327c8/index.html</link>
+            <link>https://thegrid.ai/freebetmarket/fcf915b4-299d-4229-b525-0c3e793327c8/index.html</link>
             <guid isPermaLink="false">fcf915b4-299d-4229-b525-0c3e793327c8</guid>
             <pubDate>Mon, 11 Jan 2016 11:50:22 GMT</pubDate>
         </item>
