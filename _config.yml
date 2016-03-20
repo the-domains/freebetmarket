@@ -2,6 +2,7 @@ name: FreeBetMarket
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.14539
+title: FreeBetMarket
 cta:
   domain: null
   bucket: null
